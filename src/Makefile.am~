@@ -1,0 +1,5 @@
+bin_PROGRAMS = interface
+bin_SOURCES = interface.cpp \
+	*.cpp \
+	*.h
+

@@ -1,0 +1,60 @@
+bin_PROGRAMS = interface
+interface_SOURCES =  AVLTree.cpp \
+AVLTree.h \
+FFSObject.cpp \
+FFSObject.h \
+FFile.cpp \
+FFile.h \
+FFolder.cpp \
+FFolder.h \
+GColor.cpp \
+GColor.h \
+GLine.cpp \
+GLine.h \
+GPoint.cpp \
+GPoint.h \
+GRect.cpp \
+GRect.h \
+GSelectItem.cpp \
+GSelectItem.h \
+GSelectList.cpp \
+GSelectList.h \
+IButton.cpp \
+IButton.h \
+ICheckBox.cpp \
+ICheckBox.h \
+IColorSelect.cpp \
+IColorSelect.h \
+IComboBox.cpp \
+IComboBox.h \
+IGotoIcon.cpp \
+IGotoIcon.h \
+IList.cpp \
+IList.h \
+IListItem.cpp \
+IListItem.h \
+IPrefsIcon.cpp \
+IPrefsIcon.h \
+IProgress.cpp \
+IProgress.h \
+ISearchBox.cpp \
+ISearchBox.h \
+ISlider.cpp \
+ISlider.h \
+ITextBox.cpp \
+ITextBox.h \
+Makefile \
+Makefile.am \
+Makefile.am~ \
+Makefile.in \
+Prefs.cpp \
+Prefs.h \
+PrefsControl.cpp \
+PrefsControl.h \
+PrefsFiltertab.cpp \
+PrefsFiltertab.h \
+PrefsLFtab.cpp \
+PrefsLFtab.h \
+interface.cpp
+
+

@@ -1,0 +1,15 @@
+3dfm
+----
+
+Simple install instructions:
+
+       tar -xvzf 3dfm-1.0.tar.gz
+       cd 3dfm-1.0
+       ./configure
+       make
+       make install
+
+The last step should be done as root.
+
+If you have any problems, we're sorry, but we made an installer at the
+last minute.  This was our senior design project, give us a break.
